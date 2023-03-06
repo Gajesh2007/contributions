@@ -1,2 +1,27 @@
-# contributions
-my countributions to open-source
+# Contributions
+
+### Solana
+
+- [WBTC](https://github.com/Gajesh2007/wbtc_sol) - Wrapped Bitcoin on Solana
+- [Awesome xNFT](https://github.com/Gajesh2007/awesome-xnft) - Curated List of xNFTs
+- [Drop](https://github.com/Gajesh2007/Drop) - Tool for creators to drop NFTs to fans.
+- [Double Diffusion](https://github.com/Gajesh2007/double-diffusion) - Query & Mint Stable Diffusion Generated Images as NFTs.
+- [NFT Spinner](https://github.com/Gajesh2007/NFTSpinner) - Mix your NFTs with new NFTs in the collection.
+- [OTC](https://github.com/Gajesh2007/OTC) - OTC Program for SPL Tokens (Fungible & Non-Fungible Tokens)
+- [create-xnft-app](https://github.com/Gajesh2007/create-xnft-app) - Quickly build an xNFT
+- [SolanaVRF](https://github.com/Gajesh2007/SolanaVRF) - Get Verified Randomized Number on Solana.
+- [Staking Rewards](https://github.com/Gajesh2007/staking-rewards) - Stake & Earn Rewards
+- [Reimburse](https://github.com/Gajesh2007/Reimburse) - Easily track and reimburse all expenses in your DAO on Solana.
+- [Vestor](https://github.com/Gajesh2007/Vestor) - Vestor is a program on Solana that allows you to schedule your token release or transfer. This could be used for investor token release and incentive token grants.
+- [NFT Collaterized Loans](https://github.com/Gajesh2007/NFTCollaterizedLoans) - P2P NFT Collaterized Loans on Solana
+- [Lossless Donation](https://github.com/Gajesh2007/LosslessDonation) - Donate without losing anything.
+- [Bounty Network](https://github.com/Gajesh2007/BountyNetwork) - On-chain Bounty Network on Solana.
+- [ConnectFour](https://github.com/Gajesh2007/ConnectFour) - On-chain Connect Four
+- [Dice Game](https://github.com/Gajesh2007/DiceGame_Solana) - On-chain Dice Game
+- [CoinFlip](https://github.com/Gajesh2007/CoinFlip_Solana) - Coin Flip Game on Solana
+- [Token Bar](https://github.com/Gajesh2007/TokenBarSolana) - Similar to xSushi. But For Solana.
+- [DVideo](https://github.com/Gajesh2007/DVideo-Solana) - On-chain YouTube
+- [NFT Farming](https://github.com/Gajesh2007/NFT-Farming) - Stake SPL Token, Earn Points & Redeem 'em for NFTs
+- [Voting](https://github.com/Gajesh2007/Voting) - On-chain Voting
+- [gm Program](https://github.com/Gajesh2007/gmProgram) - Hello World Program for Web3
+- [xnft-program-library](https://github.com/Gajesh2007/xnft-program-library) - Collection of xNFT Programs
