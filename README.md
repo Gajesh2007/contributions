@@ -40,6 +40,8 @@
 
 - [Stargate Faucet](https://github.com/Gajesh2007/Stargate_Faucet) - Faucet for Developers Looking to Test their OmniChain Contracts
 - [OmniYield](https://github.com/Gajesh2007/OmniYield) - Earn Yield From Any Chain
+- [OmniLido](https://github.com/Gajesh2007/OmniLido) - Deposit In Lido From Any Chain
+- [OmniIDO](https://github.com/Gajesh2007/OmniIDO) - Raise Capital From Any Chain
 
 ### Ethereum / Avalanche / EVM
 
