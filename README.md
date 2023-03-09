@@ -42,6 +42,7 @@
 - [OmniYield](https://github.com/Gajesh2007/OmniYield) - Earn Yield From Any Chain
 - [OmniLido](https://github.com/Gajesh2007/OmniLido) - Deposit In Lido From Any Chain
 - [OmniIDO](https://github.com/Gajesh2007/OmniIDO) - Raise Capital From Any Chain
+- [LayerZero Template](https://github.com/Gajesh2007/layerzero-template) - Template To Kickstart Writing Cross-Chain Apps
 
 ### Ethereum / Avalanche / EVM
 
