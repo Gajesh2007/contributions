@@ -43,6 +43,8 @@
 - [OmniLido](https://github.com/Gajesh2007/OmniLido) - Deposit In Lido From Any Chain
 - [OmniIDO](https://github.com/Gajesh2007/OmniIDO) - Raise Capital From Any Chain
 - [LayerZero Template](https://github.com/Gajesh2007/layerzero-template) - Template To Kickstart Writing Cross-Chain Apps
+- [OmniBuy](https://github.com/Gajesh2007/OmniBuy) - Purchase NFT from Any Chain, Powered by Uniswap Aggregator
+- [OmniMint](https://github.com/Gajesh2007/OmniMint) - Mint NFT From Any Chain
 
 ### Ethereum / Avalanche / EVM
 
