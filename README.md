@@ -35,6 +35,7 @@
 - [Coin Flip](https://github.com/Gajesh2007/CoinFlip_TON) - Flip & Try Your Luck
 - [Yield Farming](https://github.com/Gajesh2007/MasterChef) - Stake & Farm Tokens 💸
 - [Ton-By-Example](https://github.com/Gajesh2007/ton-by-example) - Learn TON Through Examples 🧠
+- [NFT SDK](https://github.com/ton-community/nft-sdk) - SDK For TON Developers To Frictionlessly Build NFT Projects.
 
 ### LayerZero / Stargate
 
