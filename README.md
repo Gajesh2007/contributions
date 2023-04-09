@@ -46,6 +46,7 @@
 - [LayerZero Template](https://github.com/Gajesh2007/layerzero-template) - Template To Kickstart Writing Cross-Chain Apps
 - [OmniBuy](https://github.com/Gajesh2007/OmniBuy) - Purchase NFT from Any Chain, Powered by Uniswap Aggregator
 - [OmniMint](https://github.com/Gajesh2007/OmniMint) - Mint NFT From Any Chain
+- [OmniStableFarming](https://github.com/Gajesh2007/OmniStableFarming) - Easily Farm Curve Stablecoin Yield From Any Chain
 
 ### Ethereum / Avalanche / EVM
 
