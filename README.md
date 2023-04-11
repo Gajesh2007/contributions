@@ -47,6 +47,7 @@
 - [OmniBuy](https://github.com/Gajesh2007/OmniBuy) - Purchase NFT from Any Chain, Powered by Uniswap Aggregator
 - [OmniMint](https://github.com/Gajesh2007/OmniMint) - Mint NFT From Any Chain
 - [OmniStableFarming](https://github.com/Gajesh2007/OmniStableFarming) - Easily Farm Curve Stablecoin Yield From Any Chain
+- [OmniSmartChef](https://github.com/Gajesh2007/OmniSyrup) - Omnichain Implementation of Smart Chef, PancakeSwap's Single Asset Staking Smart Contract. (IN PROGRESS)
 
 ### Ethereum / Avalanche / EVM
 
