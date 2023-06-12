@@ -29,14 +29,6 @@
 - [Curve Stablecoin on Solana](https://github.com/Gajesh2007/stablecoin_sol) - Solana Implementation of CrvUsd (To Be Public)
 - [Backpack](https://github.com/Gajesh2007/backpack) - 2nd Largest Wallet on Solana
 
-### The Open Network (TON)
-
-- [Juicebox](https://github.com/Gajesh2007/Juicebox_TON) - Tact Implementation of Popular ConstitutionDAO Crowdfund Smart Contract
-- [Coin Flip](https://github.com/Gajesh2007/CoinFlip_TON) - Flip & Try Your Luck
-- [Yield Farming](https://github.com/Gajesh2007/MasterChef) - Stake & Farm Tokens 💸
-- [Ton-By-Example](https://github.com/Gajesh2007/ton-by-example) - Learn TON Through Examples 🧠
-- [NFT SDK](https://github.com/ton-community/nft-sdk) - SDK For TON Developers To Frictionlessly Build NFT Projects.
-
 ### LayerZero / Stargate
 
 - [Stargate Faucet](https://github.com/Gajesh2007/Stargate_Faucet) - Faucet for Developers Looking to Test their OmniChain Contracts
@@ -48,6 +40,8 @@
 - [OmniMint](https://github.com/Gajesh2007/OmniMint) - Mint NFT From Any Chain
 - [OmniStableFarming](https://github.com/Gajesh2007/OmniStableFarming) - Easily Farm Curve Stablecoin Yield From Any Chain
 - [OmniSmartChef](https://github.com/Gajesh2007/OmniSyrup) - Omnichain Implementation of Smart Chef, PancakeSwap's Single Asset Staking Smart Contract. (UNTESTED)
+- [OmniSyrup](https://github.com/Gajesh2007/OmniSyrup) - Stake & Earn CAKE from any chain.
+- [OmniWallet](https://github.com/Gajesh2007/OmniWallet) - Transact From One Chain to ANY Chain
 
 ### Ethereum / Avalanche / EVM
 
@@ -58,3 +52,13 @@
 - [Bankless Subscription](https://github.com/Gajesh2007/BanklessSubscription) - To grant full access to the Discord channels to non member of the DAO through a subscription
 - [Airdroper](https://github.com/Gajesh2007/airdroper) - Send Tokens To Multiple User W/ Few Clicks
 - [Decentalized YouTube](https://github.com/Gajesh2007/blocktube) - Onchain YouTube
+- [stEthPublicGood](https://github.com/Gajesh2007/stEthPublicGood) - Donate To Charitable Causes without donating.
+
+### The Open Network (TON)
+
+- [Juicebox](https://github.com/Gajesh2007/Juicebox_TON) - Tact Implementation of Popular ConstitutionDAO Crowdfund Smart Contract
+- [Coin Flip](https://github.com/Gajesh2007/CoinFlip_TON) - Flip & Try Your Luck
+- [Yield Farming](https://github.com/Gajesh2007/MasterChef) - Stake & Farm Tokens 💸
+- [Ton-By-Example](https://github.com/Gajesh2007/ton-by-example) - Learn TON Through Examples 🧠
+- [NFT SDK](https://github.com/ton-community/nft-sdk) - SDK For TON Developers To Frictionlessly Build NFT Projects.
+- [nft_mint_ton](https://github.com/Gajesh2007/nft_mint_ton) - Classical NFT Minting on TON
