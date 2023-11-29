@@ -53,6 +53,7 @@
 - [Airdroper](https://github.com/Gajesh2007/airdroper) - Send Tokens To Multiple User W/ Few Clicks
 - [Decentalized YouTube](https://github.com/Gajesh2007/blocktube) - Onchain YouTube
 - [stEthPublicGood](https://github.com/Gajesh2007/stEthPublicGood) - Donate To Charitable Causes without donating.
+- [EigenLayer](https://github.com/layr-Labs/eigenlayer-contracts/) - Programmable Trust
 
 ### The Open Network (TON)
 
