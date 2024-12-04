@@ -1,5 +1,12 @@
 # Contributions
 
+# EigenLayer
+
+- [EigenLayer Core](https://github.com/Layr-Labs/eigenlayer-contracts)
+- [EigenLayer Middleware](https://github.com/Layr-Labs/eigenlayer-middleware)
+- [Hello World AVS](https://github.com/Layr-Labs/hello-world-avs)
+- [All Chains Fit on EigenDA](https://github.com/Layr-Labs/da-stunt)
+
 ### Solana
 
 - [WBTC](https://github.com/Gajesh2007/wbtc_sol) - Wrapped Bitcoin on Solana
