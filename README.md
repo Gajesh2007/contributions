@@ -6,6 +6,8 @@
 - [EigenLayer Middleware](https://github.com/Layr-Labs/eigenlayer-middleware)
 - [Hello World AVS](https://github.com/Layr-Labs/hello-world-avs)
 - [All Chains Fit on EigenDA](https://github.com/Layr-Labs/da-stunt)
+- [Eigen AgentKit](https://github.com/Layr-Labs/eigen-agentkit)
+- [Awesome AVS](https://github.com/Layr-Labs/awesome-avs)
 
 ### Solana
 
