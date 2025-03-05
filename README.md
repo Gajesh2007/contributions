@@ -8,6 +8,7 @@
 - [All Chains Fit on EigenDA](https://github.com/Layr-Labs/da-stunt)
 - [Eigen AgentKit](https://github.com/Layr-Labs/eigen-agentkit)
 - [Awesome AVS](https://github.com/Layr-Labs/awesome-avs)
+- [Verifiable RDS](https://github.com/Gajesh2007/verifiable-rds-avs)
 
 ### Solana
 
