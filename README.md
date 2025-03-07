@@ -1,5 +1,9 @@
 # Contributions
 
+# AI
+
+- [ArXiv Opportunity Finder](https://github.com/Gajesh2007/arxiv-opportunity-finder)
+
 # EigenLayer
 
 - [EigenLayer Core](https://github.com/Layr-Labs/eigenlayer-contracts)
