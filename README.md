@@ -1,5 +1,11 @@
 # Contributions
 
+# Trading
+
+- [AI Trading Agent](https://github.com/Gajesh2007/ai-trading-agent) - Trading Agent that works with any model available on OpenRouter
+- [Copytrading Agent](https://github.com/Gajesh2007/copytrading-agent) - Copytrade any Hyperliquid account (position by position, trade by trade)
+- [Funding Rate Arbitrage](https://github.com/gajesh2007/funding-arb-bot) - Funding Arbitrage between Lighter and Hyperliquid
+
 # Verifiability
 
 - [Verifiable RDS](https://github.com/Gajesh2007/verifiable-rds-avs)
